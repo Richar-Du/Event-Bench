@@ -33,7 +33,7 @@ We introduce **Event-Bench**, an event-oriented long video understanding benchma
 
 ## 🔍 Dataset
 Download the raw videos in VNBench from the [google drive link](https://drive.google.com/file/d/1wjjH2dK-KpaObFdS1yc-TBUTCvXsaLwc/view?usp=sharing).
-Download the annotation of VNBench from the [huggingface link](https://huggingface.co/datasets/Richard1999/Event-Bench)
+Download the annotation of VNBench from the [huggingface link](https://huggingface.co/datasets/RUCAIBox/Event-Bench)
 **License**:
 ```
 Event-Bench is only used for academic research. Commercial use in any form is prohibited.
