@@ -11,7 +11,7 @@
 
 
 
-<font size=3><div align='center' > [[📖 arXiv Paper]()] [[📊 Dataset](https://huggingface.co/datasets/RUCAIBox/Event-Bench)]  </div></font>
+<font size=3><div align='center' > [[📖 arXiv Paper](https://arxiv.org/pdf/2406.14129)] [[📊 Dataset](https://huggingface.co/datasets/RUCAIBox/Event-Bench)]  </div></font>
 
 ---
 
@@ -89,5 +89,12 @@ python evaluate_gpt.py \
 If you find our work helpful for your research, please consider citing our work.   
 
 ```bibtex
-
+@misc{du2024eventoriented,
+    title={Towards Event-oriented Long Video Understanding},
+    author={Yifan Du and Kun Zhou and Yuqi Huo and Yifan Li and Wayne Xin Zhao and Haoyu Lu and Zijia Zhao and Bingning Wang and Weipeng Chen and Ji-Rong Wen},
+    year={2024},
+    eprint={2406.14129},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV}
+}
 ```
