@@ -31,9 +31,13 @@ We introduce **Event-Bench**, an event-oriented long video understanding benchma
 **Event-Bench** provides a systematic comparison across different kinds of capabilities for existing video MLLMs, and points out the major shortcomings of open-source MLLMs.
 
 
-## 🔍 Dataset
-Download the raw videos in VNBench from the [google drive link](https://drive.google.com/file/d/1wjjH2dK-KpaObFdS1yc-TBUTCvXsaLwc/view?usp=sharing).
-Download the annotation of VNBench from the [huggingface link](https://huggingface.co/datasets/RUCAIBox/Event-Bench)
+## 🔍 Benchmark Data and Instruction Dataset
+Download the raw videos in EventBench from the [google drive link](https://drive.google.com/file/d/1wjjH2dK-KpaObFdS1yc-TBUTCvXsaLwc/view?usp=sharing).
+
+Download the annotation of EventBench from the [huggingface link](https://huggingface.co/datasets/RUCAIBox/Event-Bench)
+
+Download the merged video instruction dataset from the [google drive link](https://drive.google.com/file/d/1M9Nm2B-IGX8Y3x-A9XaUn6ND2CGlepde/view?usp=sharing)
+
 **License**:
 ```
 Event-Bench is only used for academic research. Commercial use in any form is prohibited.
